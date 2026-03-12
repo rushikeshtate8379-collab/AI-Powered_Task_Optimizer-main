@@ -178,7 +178,7 @@ This file keeps records of:
 
 # 👨‍💻 Author
 
-**Rushikesh Padmakar Sate**
+**Rushikesh Padmakar Tate**
 B.Tech CSE (AI & ML)
 
 Project: AI-Powered Task Optimizer
